@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Course",
+      "slug": "beginner-guitar-course",
+      "description": "Learn acoustic and electric guitar from scratch with proper techniques and practice routines.",
+      "price": 1499,
+      "instructor": "Aarav Malhotra",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d"
+    },
+    {
+      "id": 2,
+      "title": "Professional Piano Training",
+      "slug": "professional-piano-training",
+      "description": "Master piano skills including classical pieces, chords, and music theory.",
+      "price": 2499,
+      "instructor": "Ritika Sen",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Music Fundamentals",
+      "slug": "vocal-music-fundamentals",
+      "description": "Improve your vocal range, breathing techniques, and pitch control.",
+      "price": 1799,
+      "instructor": "Neel Joshi",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81"
+    },
+    {
+      "id": 4,
+      "title": "Advanced Drum Techniques",
+      "slug": "advanced-drum-techniques",
+      "description": "Learn advanced drumming patterns, rhythm control, and live performance skills.",
+      "price": 2199,
+      "instructor": "Kunal Mehra",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7"
+    },
+    {
+      "id": 5,
+      "title": "Music Production with DAWs",
+      "slug": "music-production-with-daws",
+      "description": "Create professional music using DAWs like FL Studio, Ableton, and Logic Pro.",
+      "price": 3499,
+      "instructor": "Sahil Kapoor",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+    },
+    {
+      "id": 6,
+      "title": "Violin for Beginners",
+      "slug": "violin-for-beginners",
+      "description": "Learn violin basics, posture, bowing techniques, and simple melodies.",
+      "price": 1599,
+      "instructor": "Ananya Iyer",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0"
+    },
+    {
+      "id": 7,
+      "title": "Music Theory Complete Course",
+      "slug": "music-theory-complete-course",
+      "description": "Understand scales, chords, harmony, rhythm, and composition techniques.",
+      "price": 1999,
+      "instructor": "Vikram Rao",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76"
+    }
+  ]
+}
