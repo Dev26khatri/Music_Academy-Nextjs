@@ -1,8 +1,9 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import Instructors from "@/components/Instructors";
 import MovingCard from "@/components/MovingCard";
+import UpcomingWebinar from "@/components/UpcomingWebinar";
 import WhyChooseUs from "@/components/WhyChooseUs";
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -11,6 +12,8 @@ export default function Home() {
       <FeaturedCourses />
       <WhyChooseUs />
       <MovingCard />
+      <UpcomingWebinar />
+      <Instructors />
     </div>
   );
 }
